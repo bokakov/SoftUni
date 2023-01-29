@@ -1,2 +1,2 @@
 # SoftUni
-Here I'll add homework from courses I'm in
+Here I'll add homework and exams from courses I'm in
